@@ -1,0 +1,5 @@
+{
+  "appId": "com.pomotime.app",
+  "appName": "PomoTime",
+  "webDir": ".output/public"
+}
